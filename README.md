@@ -4,8 +4,6 @@ Lirik lagu sa jauh sa tanam memakai python.
 ## 📥 Instalasi & Penggunaan
 
 ### Termux (Android)
-
-```bash
 pkg update && pkg upgrade -y
 pkg install git python
 
