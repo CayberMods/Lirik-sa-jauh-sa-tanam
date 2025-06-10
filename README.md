@@ -11,7 +11,7 @@ pkg install git python
 git clone https://github.com/CayberMods/Lirik-sa-jauh-sa-tanam.git
 cd Lirik-sa-jauh-sa-tanam
 
-python sa-jauh-sa-tanam.py
+python sa-jauh-sa-tanam.py```
 
 ## Linux (Debian/Ubuntu, Fedora, dll.)
 
