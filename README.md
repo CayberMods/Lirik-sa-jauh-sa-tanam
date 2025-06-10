@@ -3,7 +3,7 @@
 Lirik lagu sa jauh sa tanam memakai python.
 ## 📥 Instalasi & Penggunaan
 ```bash
-### Termux (Android)
+## Termux (Android)
 
 pkg update && pkg upgrade -y
 pkg install git python
@@ -13,7 +13,7 @@ cd Lirik-sa-jauh-sa-tanam
 
 python sa-jauh-sa-tanam.py
 
-### Linux (Debian/Ubuntu, Fedora, dll.)
+## Linux (Debian/Ubuntu, Fedora, dll.)
 
 sudo apt update && sudo apt upgrade -y
 sudo apt install git python3
@@ -23,7 +23,7 @@ cd Lirik-sa-jauh-sa-tanam
 
 python3 sa-jauh-sa-tanam.py
 
-### Windows (via WSL – Ubuntu)
+## Windows (via WSL – Ubuntu)
 
 wsl
 
