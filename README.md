@@ -4,7 +4,7 @@ Lirik lagu sa jauh sa tanam memakai python.
 ## 📥 Instalasi & Penggunaan
 
 ### Termux (Android)
-pkg update && pkg upgrade -y
+'' pkg update && pkg upgrade -y
 pkg install git python
 
 git clone https://github.com/CayberMods/Lirik-sa-jauh-sa-tanam.git
